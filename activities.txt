@@ -2,4 +2,8 @@ go shopping
 walk
 sleep
 cook
+<<<<<<< Updated upstream
 wash hand
+=======
+fix
+>>>>>>> Stashed changes
