@@ -1,0 +1,4 @@
+go shopping
+walk
+sleep
+cook
